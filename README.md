@@ -1,2 +1,2 @@
 # Unity2DGame
-The first Unity game I made
+The first game I made in Unity
